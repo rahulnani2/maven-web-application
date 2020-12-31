@@ -10,18 +10,14 @@
 </head>
 <body>
 <h1 align="center">Welcome to Devops Practice Projects- 26th Dec 2020</h1>
-<h1 align="center"> Welcome to Devops Practice Projects.We are testing Pol SCM using Jenkins with Maven Free Style Project.</h1>
+<h1 align="center"> Welcome to Devops Practice Projects.We are testing Pol SCM using Jenkins with Jenkins Pipeline project.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		DevOps Practice, 
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
