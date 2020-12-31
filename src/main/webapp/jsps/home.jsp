@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Devops Practice Projects- 26th Dec 2020</h1>
-<h1 align="center"> Devops Practice Projects.We are testing Pol SCM using Jenkins with Jenkins Pipeline project.</h1>
+<h1 align="center"> Devops Practice Projects.We are testing GitHub Webhook using Jenkins with Jenkins Free style project project.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
